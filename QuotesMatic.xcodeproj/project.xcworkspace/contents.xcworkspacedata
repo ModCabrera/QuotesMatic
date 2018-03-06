@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/cabreram/Desktop/IosApps/QuotesMatic/QuotesMatic/ViewController.h">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/cabreram/Desktop/IosApps/QuotesMatic/QuotesMatic/ViewController.m">
+   </FileRef>
+   <FileRef
       location = "self:QuotesMatic.xcodeproj">
    </FileRef>
 </Workspace>

@@ -10,6 +10,11 @@
 
 @interface ViewController : UIViewController
 
+//Quote Label - IBOutlet
+@property (weak, nonatomic) IBOutlet UILabel *quoteLabel;
+
+//Return New Quotes Button - IBAction
+- (IBAction)quotesButton:(UIButton *)sender;
 
 @end
 
